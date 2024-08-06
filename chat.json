@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned within the app?\", \"option1\": \"Position it at the bottom of the home page\", \"option2\": \"Place it in the navbar\"}, {\"question 2\": \"Should the 'Hello World' button have any specific functionality or is it purely aesthetic?\", \"option1\": \"Link it to a specific page or action\", \"option2\": \"It\\u2019s just for design, no functionality needed\"}], \"input_token_count\": 378, \"output_token_count\": 109, \"time_taken\": \"0:00:10.976432\"}",
+        "message_id": "guest06082024083453",
+        "timestamp": "06082024083505",
+        "component_file_name": "simple_cta_component_1722932965",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Acknowledged, adding a button with text \"Hello World\".",
         "message_id": "guest06082024083453",
