@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where should the 'Submit' button be located within the app's interface?\", \"option1\": \"At the bottom of the form\", \"option2\": \"Fixed at the bottom of the screen regardless of scrolling\"}, {\"question 2\": \"What action should occur when the 'Submit' button is clicked?\", \"option1\": \"Save the data and redirect the user to the home page\", \"option2\": \"Show a confirmation message on the same page\"}], \"input_token_count\": 564, \"output_token_count\": 107, \"time_taken\": \"0:00:06.898941\"}",
+        "message_id": "guest06082024083723",
+        "timestamp": "06082024083731",
+        "component_file_name": "simple_cta_component_1722932965",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I'll add a 'Submit' button for you.",
         "message_id": "guest06082024083723",
