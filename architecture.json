@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nCan you describe the project a bit more?\nAI: Got it, I'll add a navbar with navlinks for home, about, and contact.\nUser: add a navbar with navlinks home, about and contact\nAI: Will add a \"Submit\" button as requested.\nUser: add a button that says Submit\nAI: Thanks for your request. Working on adding the 'Hello World' button.\nUser: add a button that says hello world\nThis is the user's current request of changes to be made: add a button that says hello world"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested the AI to add a button that says \"Hello World.\" In response, the AI acknowledged the request, stating, \"Thanks for your request. Working on adding the 'Hello World' button,\" and then asked the user for more details about the project, indicating a need for clarification.\nAI: Acknowledged, adding a button with text \"Hello World\".\nUser: add a button that says hello world\nAI: Got it, I'll add a navbar with navlinks for home, about, and contact.\nUser: add a navbar with navlinks home, about and contact\nAI: Will add a \"Submit\" button as requested.\nUser: add a button that says Submit\nThis is the user's current request of changes to be made: add a button that says hello world"
     }
 ]
