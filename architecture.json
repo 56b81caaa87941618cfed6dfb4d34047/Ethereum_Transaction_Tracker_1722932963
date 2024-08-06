@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "add a navbar with navlinks home, about and contact"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nCan you describe the project a bit more?\nAI: Got it, I'll add a navbar with navlinks for home, about, and contact.\nUser: add a navbar with navlinks home, about and contact\nAI: Will add a \"Submit\" button as requested.\nUser: add a button that says Submit\nAI: Thanks for your request. Working on adding the 'Hello World' button.\nUser: add a button that says hello world\nThis is the user's current request of changes to be made: add a button that says hello world"
     }
 ]
