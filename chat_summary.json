@@ -54,5 +54,11 @@
         "content": "Got it, I'll add a navbar with navlinks for home, about, and contact.",
         "timestamp": "06082024083218",
         "message_id": "guest06082024083216"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the page or should it disappear as the user scrolls down?\", \"option1\": \"Fixed at the top\", \"option2\": \"Disappear on scroll\"}, {\"question 2\": \"Do you have specific color schemes or design themes in mind for the navbar to match the overall aesthetic of the app?\", \"option1\": \"Yes, I have specific colors and themes in mind\", \"option2\": \"No, I'm open to suggestions based on the app's current design\"}], \"input_token_count\": 265, \"output_token_count\": 122, \"time_taken\": \"0:00:04.155922\"}",
+        "timestamp": "06082024083222",
+        "message_id": "guest06082024083216"
     }
 ]
